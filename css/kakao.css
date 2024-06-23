@@ -1,0 +1,35 @@
+﻿@font-face {
+	font-family: 'Kakao';
+	src: url(../fonts/Kakao-aLt.eot);
+	src: local(☺),
+	url(../fonts/Kakao-aLt-1.eot) format('embedded-opentype'),
+	url(../fonts/Kakao-aLt.woff) format('woff');
+	font-style: normal;
+	font-weight: 300;
+	font-display: swap;
+  unicode-range: U+AC00-D7A3, U+0041-005A, U+0061-007A, U+0030-0039, U+0020-002F, U+003A-0040, U+005B-0060, U+007B-007E;
+}
+
+@font-face {
+	font-family: 'Kakao';
+	src: url(../fonts/Kakao-bRg.eot);
+	src: local(☺),
+	url(../fonts/Kakao-bRg-1.eot) format('embedded-opentype'),
+	url(../fonts/Kakao-bRg.woff) format('woff');
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+  unicode-range: U+AC00-D7A3, U+0041-005A, U+0061-007A, U+0030-0039, U+0020-002F, U+003A-0040, U+005B-0060, U+007B-007E;
+}
+
+@font-face {
+	font-family: 'Kakao';
+	src: url(../fonts/Kakao-cBd.eot);
+	src: local(☺),
+	url(../fonts/Kakao-cBd-1.eot) format('embedded-opentype'),
+	url(../fonts/Kakao-cBd.woff) format('woff');
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+  unicode-range: U+AC00-D7A3, U+0041-005A, U+0061-007A, U+0030-0039, U+0020-002F, U+003A-0040, U+005B-0060, U+007B-007E;
+}
